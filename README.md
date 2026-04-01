@@ -6,8 +6,9 @@ Incluye análisis de la empresa, levantamiento de requerimientos, estudio de fac
 ---
 
 ## 📄 Documento principal
-El proyecto completo está disponible en el siguiente archivo:  
-[Systeminv.pdf](./docs/Systeminv.pdf)
+El proyecto completo está disponible en la siguiente carpeta:  
+[Ver carpeta docs →](./docs/)
+
 
 ---
 
