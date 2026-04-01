@@ -13,12 +13,12 @@ El proyecto completo está disponible en la siguiente carpeta:
 ---
 
 ## 👨‍💻 Rol Personal
-**Consultor Funcional / Analista de Requerimientos y Desarrollo PHP**  
+**Consultor Funcional / Analista de Requerimientos y Desarrollo Java Swing**  
 Responsabilidades:  
 - Levantamiento y documentación de requerimientos.  
 - Elaboración de carta Gantt y estudio de factibilidad.  
 - Diseño UML y modelado de datos.  
-- Construcción de prototipo funcional.  
+- Construcción de prototipo funcional con Java Swing y MySQL.  
 - Pruebas de software y validación.  
 - Conclusiones y perspectivas futuras.
 
